@@ -76,7 +76,7 @@ public:
 		stashLayout(NULL),
 		inventoryLayout(NULL),
 		cubeLayout(NULL),
-		AutoPickupOn(true),
+		AutoPickupOn(false),
 		tp_warn_quantity(3),
 		Auto_toPickupItems({
 	"gld",  "gzv","glw", "leg",			//  Flawless-Amethyst, Flawless-Diamond
