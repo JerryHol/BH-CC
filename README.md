@@ -1,3 +1,11 @@
+# 效果预览
+
+![图1](https://github.com/JerryHol/BH-CC/blob/master/%E7%89%A9%E5%93%81%E6%98%BE%E7%A4%BA.png)<br/>
+![图2](https://github.com/weili0677/BH/blob/main/%E7%89%A9%E5%93%81%E6%98%BE%E7%A4%BA.png)<br/>
+![图3](https://github.com/weili0677/BH/blob/main/%E5%BF%AB%E6%8D%B7%E8%AF%B4%E6%98%8E.png)<br/>
+![图4](https://github.com/weili0677/BH/blob/main/%E5%9C%B0%E5%9B%BE%E6%98%BE%E7%A4%BA.png)<br/>
+![图5](https://github.com/weili0677/BH/blob/main/%E5%B1%9E%E6%80%A7%E9%9D%A2%E6%9D%BF.png)<br/>
+
 slashdiablo-maphack
 ===================
 
