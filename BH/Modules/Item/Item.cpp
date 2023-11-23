@@ -787,7 +787,7 @@ void __stdcall Item::OnProperties(wchar_t * wTxt)
 		// Don't show range if item spawned with edef and hasn't been upgraded.
 		if (!spawned_with_ed) {
 			swprintf_s(wTxt + aLen, MAXLEN - aLen,
-					L"%sBase Defense: %d %s[%d - %d]%s%s\n",
+					L"%s基础防御: %d %s[%d - %d]%s%s\n",
 					GetColorCode(TextColor::White).c_str(),
 					base,
 					GetColorCode(statRangeColor).c_str(),
@@ -807,7 +807,7 @@ void __stdcall Item::OnProperties(wchar_t * wTxt)
 			&& (quality == ITEM_QUALITY_MAGIC || quality == ITEM_QUALITY_RARE || quality == ITEM_QUALITY_CRAFT)) {
 		int aLen = wcslen(wTxt);
 		swprintf_s(wTxt + aLen, MAXLEN - aLen,
-				L"%sAffix Level: %d\n",
+				L"%s词缀等级: %d\n",
 				GetColorCode(TextColor::White).c_str(),
 				alvl);
 	}
@@ -820,7 +820,7 @@ void __stdcall Item::OnProperties(wchar_t * wTxt)
 	{
 		int aLen = wcslen(wTxt);
 		swprintf_s(wTxt + aLen, MAXLEN - aLen,
-				L"%sItem Level: %d\n",
+				L"%s物品等级: %d\n",
 				GetColorCode(TextColor::White).c_str(),
 				ilvl);
 	}
